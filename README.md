@@ -17,6 +17,13 @@ I’ll keep adding more projects as I learn and grow 🚀.
 - Case insensitive, so `"Madam"` and `"madam"` are both palindromes.
 - Demonstrates string slicing and case handling.
 
+### Username Validation
+A simple Python program that checks if a username follows these rules:
+- Maximum of 12 characters
+- No spaces
+- No digits
+
+
 ---
 
 ## 🛠️ Tech Stack
