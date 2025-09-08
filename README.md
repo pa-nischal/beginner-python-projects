@@ -23,6 +23,12 @@ A simple Python program that checks if a username follows these rules:
 - No spaces
 - No digits
 
+### 4. Compound Interest Calculator
+A Python program that calculates the future value of an investment with different compounding frequencies.
+- Supports **Annually, Semi-annually, Quarterly, and Monthly** compounding.
+- Allows additional **monthly contributions**.
+- Outputs final balance after the given time period.
+
 
 ---
 
