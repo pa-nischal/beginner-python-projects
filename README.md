@@ -29,6 +29,10 @@ A Python program that calculates the future value of an investment with differen
 - Allows additional **monthly contributions**.
 - Outputs final balance after the given time period.
 
+### 5. Phonebook in Python
+
+A simple command-line Phonebook app written in Python.
+You can add contacts (name + number) and display your phonebook.
 
 ---
 
