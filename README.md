@@ -34,20 +34,45 @@ A Python program that calculates the future value of an investment with differen
 A simple command-line Phonebook app written in Python.
 You can add contacts (name + number) and display your phonebook.
 
----
+### 6. To-Do CLI App
 
-## 🛠️ Tech Stack
+A simple **command-line To-Do list application** built with Python.  
+
+This project is part of my **Beginner Python Projects** collection.
+
+- Add new tasks ✅  
+- View the list of tasks ✅  
+- Edit tasks ✅  
+- Delete tasks ✅  
+- Mark tasks as completed ✅  
+- Delete all completed tasks ✅  
+- Delete all tasks ✅  
+- Show counts: total tasks, completed, and remaining ✅  
+
+ **How to Use**
+
+1. Clone the repository or download the `todo_app.py` file.  
+2. Run the app in your terminal or command prompt:
+
+```bash
+python todo_app.py
+
+Follow the on-screen menu to interact with your tasks.
+
+
+
+### 🛠️ Tech Stack
 - Python 3.x  
 
 ---
 
-## 🌱 Learning Journey
+### 🌱 Learning Journey
 These small projects are my first steps toward mastering Python and preparing for AI/ML development.  
 Stay tuned for more projects — each one builds on the previous!
 
 ---
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nischal-pokharel-300549368)
 - [X (Twitter)](https://x.com/pa_nischal)  
 - [GitHub](https://github.com/pa-nischal)
