@@ -49,16 +49,6 @@ This project is part of my **Beginner Python Projects** collection.
 - Delete all tasks ✅  
 - Show counts: total tasks, completed, and remaining ✅  
 
- **How to Use**
-
-1. Clone the repository or download the `todo_app.py` file.  
-2. Run the app in your terminal or command prompt:
-
-```bash
-python to_do_app.py
-
-
-
 Follow the on-screen menu to interact with your tasks.
 
 
