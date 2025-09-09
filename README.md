@@ -57,7 +57,7 @@ This project is part of my **Beginner Python Projects** collection.
 ```bash
 python to_do_app.py
 
-Follow the on-screen menu to interact with your tasks.```
+Follow the on-screen menu to interact with your tasks.
 
 
 
