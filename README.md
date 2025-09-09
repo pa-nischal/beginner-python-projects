@@ -55,9 +55,9 @@ This project is part of my **Beginner Python Projects** collection.
 2. Run the app in your terminal or command prompt:
 
 ```bash
-python todo_app.py
+python to_do_app.py
 
-Follow the on-screen menu to interact with your tasks.
+Follow the on-screen menu to interact with your tasks.```
 
 
 
