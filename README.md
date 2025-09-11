@@ -51,6 +51,14 @@ This project is part of my **Beginner Python Projects** collection.
 
 Follow the on-screen menu to interact with your tasks.
 
+### 7. Python Quiz App
+
+A simple Python program to take a general knowledge quiz using lists, tuples, sets, loops, and functions.
+
+- Multiple-choice questions
+- Tracks attempted questions
+- Keeps score including negative marking
+
 
 
 ### 🛠️ Tech Stack
