@@ -59,6 +59,12 @@ A simple Python program to take a general knowledge quiz using lists, tuples, se
 - Tracks attempted questions
 - Keeps score including negative marking
 
+### 8. Mini Grade Tracker – Python CLI Project
+
+A simple Python script that reads student grades from a CSV file and provides:
+- Subject Averages: Calculates the average marks for each subject.
+- Highest/Lowest Scores: Displays the highest and lowest marks per subject.
+- Individual Report Cards: Generates report cards with letter grades and percentages for each student.
 
 
 ### 🛠️ Tech Stack
